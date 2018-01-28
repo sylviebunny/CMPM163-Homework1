@@ -2,7 +2,7 @@
 
 A. Design a 3D scene 
 Use Three.js to create 3 objects and lights with different shaders. Also apply a texture to one object.
-Homework1/1.jpg
+https://raw.githubusercontent.com/sylviebunny/Homework1/master/1.jpg
 B. Image processing 
 Create an shader that takes an image and applies an image processing algorithm to it. 
 

@@ -10,3 +10,4 @@ C.Game of life using shaders
 Create a multi-color game of life 
 ![](https://raw.githubusercontent.com/sylviebunny/Homework1/master/3.jpg)
 D.Discuss a visual effect 
+![](https://raw.githubusercontent.com/sylviebunny/Homework1/master/homework1D.jpg)

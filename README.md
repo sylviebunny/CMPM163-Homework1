@@ -8,5 +8,5 @@ Create an shader that takes an image and applies an image processing algorithm t
 ![](https://raw.githubusercontent.com/sylviebunny/Homework1/master/2.jpg)
 C.Game of life using shaders 
 Create a multi-color game of life 
-
+![](https://raw.githubusercontent.com/sylviebunny/Homework1/master/3.jpg)
 D.Discuss a visual effect 
